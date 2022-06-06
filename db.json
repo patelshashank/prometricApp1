@@ -1,0 +1,8 @@
+{
+  "Id": "sample string 1",
+  "Href": "sample string 2",
+  "Type": "sample string 3",
+  "Description": "sample string 4",
+  "Amount": 5.0,
+  "Currency": "sample string 6"
+}
